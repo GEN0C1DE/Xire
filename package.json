@@ -1,0 +1,13 @@
+{
+  "name": "project-xire",
+  "version": "0.0.1",
+  "description": "Xire, a Roblox Group Nuker, fitted to be used on Window Computers.",
+  "main": "XireJavascript.js",
+  "scripts": {
+    "start": "node XireJavascript.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "noblox.js": "^4.7.3"
+  }
+}
